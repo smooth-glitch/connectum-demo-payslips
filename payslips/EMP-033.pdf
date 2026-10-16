@@ -1,0 +1,58 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1090 >>
+stream
+BT /F2 20 Tf 56 790 Td (Payslip - sample) Tj ET
+BT /F1 11 Tf 56 765 Td (Demo HR   |   Pay period: October 2026) Tj ET
+BT /F1 12 Tf 56 725 Td (Employee: Nikhil Krishnan) Tj ET
+BT /F1 12 Tf 330 725 Td (Employee code: EMP-033) Tj ET
+BT /F1 12 Tf 56 705 Td (Department: Sales) Tj ET
+BT /F1 12 Tf 330 705 Td (Branch: Head office) Tj ET
+BT /F2 12 Tf 56 665 Td (Earnings) Tj ET
+BT /F1 12 Tf 56 645 Td (Basic) Tj ET
+BT /F1 12 Tf 330 645 Td (37,456) Tj ET
+BT /F1 12 Tf 56 627 Td (House rent allowance) Tj ET
+BT /F1 12 Tf 330 627 Td (14,980) Tj ET
+BT /F1 12 Tf 56 609 Td (Special allowance) Tj ET
+BT /F1 12 Tf 330 609 Td (8,240) Tj ET
+BT /F2 12 Tf 56 570 Td (Deductions) Tj ET
+BT /F1 12 Tf 56 550 Td (Provident fund) Tj ET
+BT /F1 12 Tf 330 550 Td (4,490) Tj ET
+BT /F1 12 Tf 56 532 Td (Professional tax) Tj ET
+BT /F1 12 Tf 330 532 Td (200) Tj ET
+BT /F1 12 Tf 56 514 Td (Income tax) Tj ET
+BT /F1 12 Tf 330 514 Td (4,850) Tj ET
+BT /F2 14 Tf 56 465 Td (Net pay) Tj ET
+BT /F2 14 Tf 330 465 Td (51,136) Tj ET
+BT /F1 9 Tf 56 90 Td (This is a sample document made for a demo. It is not a real payslip.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001393 00000 n 
+0000001463 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1538
+%%EOF
